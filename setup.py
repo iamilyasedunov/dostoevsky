@@ -14,7 +14,7 @@ setup(
     name='dostoevsky',
     version='0.2.0',
     description='Sentiment analysis library for russian language',
-    url='https://github.com/bureaucratic-labs/dostoevsky',
+    url='https://github.com/iamilyasedunov/dostoevsky',
     author='Bureaucratic Labs',
     author_email='hello@b-labs.pro',
     license='MIT',
