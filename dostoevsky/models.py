@@ -53,6 +53,7 @@ class BaseModel:
             .label_encoder
             .inverse_transform(Y)
         )
+		print(labels)
         return labels
 
     def get_raw_model(self):
