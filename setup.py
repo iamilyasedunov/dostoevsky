@@ -18,8 +18,8 @@ setup(
     author='Bureaucratic Labs',
     author_email='hello@b-labs.pro',
     license='MIT',
-    long_description=get_long_description(),
-    long_description_content_type='text/markdown',
+    #long_description=get_long_description(),
+    #long_description_content_type='text/markdown',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
@@ -33,7 +33,7 @@ setup(
         'Topic :: Text Processing :: Linguistic',
     ],
     keywords='natural language processing, sentiment analysis',
-    packages=find_packages(),
+    #packages=find_packages(),
     package_data={
         'dostoevsky': [
             'data/corpora/*',
